@@ -1,0 +1,2 @@
+# gitInit
+introduction to git
